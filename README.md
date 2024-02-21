@@ -14,6 +14,14 @@ Typescript
         composer install
     ```
  3. Install dependencies Javascript
- 
+    If use npm
+    ```
+        npm install --save
+    ```
+    If use Yarn
+    ```
+        yarn
+    ```
+
 
 
